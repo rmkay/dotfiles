@@ -350,6 +350,11 @@
         <command>firefox</command>
       </action>
     </keybind>
+    <keybind key="W-p">
+      <action name="Execute">
+        <command>/home/r/bin/mplayerspause</command>
+      </action>
+    </keybind>
     <keybind key="W-f">
       <action name="Execute">
         <command>pcmanfm</command>
